@@ -1,7 +1,7 @@
 
 ﻿<h1 align="center">🐍 Python Data Analysis — Learning Repository</h1>
 =======
-<h1 align="center">🐍 Python Data Analysis — Learning Repository</h1>
+
 
 
 <p align="center">
